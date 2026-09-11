@@ -8,4 +8,4 @@ Repositório criado para registrar minha evolução prática em SQL durante a fa
 * Consultas e filtros (`SELECT`, `WHERE`)
 
 ## 💻 Ferramentas utilizadas:
-* SQLite / PostgreSQL
+* SQLite / PostgreSQL / ORACLE
